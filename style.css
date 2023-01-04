@@ -1,0 +1,85 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+.menu-bar{
+	background-color: #808080;
+	text-align: center;
+}
+
+.menu-bar ul{
+	display: inline-flex;
+	list-style: none ;
+
+}
+.menu-bar ul li{
+	width: 120px;
+	margin: 15px;
+	padding: 15px;
+}
+
+.h1{
+	text-align: center;
+	margin-top: 20px;
+	font-family: inline;
+
+}
+.h2{
+	text-align: center;
+}
+.h3{
+	text-align: center;
+}
+.art-poster{
+	width: 450px;
+	margin-left: 100px;
+	margin-top: 30px;
+}
+.uni-work{
+	width: 500px;
+}
+.lambo{
+	width: 440px;
+	margin-bottom: 350px;
+	margin-left: -500px;
+}
+.city{
+	width: 450px;
+	margin-left: 10px;
+}
+.alonso{
+	width: 400px;
+	margin-bottom: 370px;
+}
+.redbull{
+	width: 400px;
+	margin-left: 1465px;
+	margin-top: -800px;
+	margin-bottom: 100px;
+}
+.ani{
+	width: 300px;
+	margin-left: 1500px;
+	margin-top: -370px;
+}
+.gp{
+	margin-left: 700px;
+	width: 500px;
+}
+.voyage{
+	width: 500px;
+	margin-bottom: -340px;
+	margin-left: -1100px;
+
+}
+.comingsoon{
+	width: 500px;
+	margin-bottom: -340px;
+
+}
+
+.flyer{
+	margin-left: 100px;
+}
+
