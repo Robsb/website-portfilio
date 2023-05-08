@@ -1,0 +1,101 @@
+.h1{
+	text-align: center;
+
+}
+.menu-bar{
+	background-color: #808080;
+	text-align: center;
+}
+
+.menu-bar ul{
+	display: inline-flex;
+	list-style: none;
+}
+
+.menu-bar ul li{
+	width: 120px;
+	margin: 15px;
+	padding: 15px;
+}
+
+.p1{
+	text-align: left;
+}
+
+.pb{
+	width: 550px;
+	margin-left: 650px;
+}
+
+.pbdev1{
+	width: 550px;
+	margin-left: 1150px;
+	margin-top: 100px;
+
+}
+
+.pbdev2{
+	width: 550px;
+	margin-top: 100px;
+	margin-left: 20px;
+}
+
+.pbdev3{
+	width: 550px;
+	margin-left: 1150px;
+	margin-top: 100px;
+}
+
+.pbdev4{
+	width: 550px;
+	margin-top: 100px;
+	margin-left: 20px;
+}
+
+.pbdev5{
+	width: 550px;
+	margin-left: 1150px;
+	margin-top: 100px;
+}
+
+.pbdev6{
+	width: 550px;
+	margin-top: 100px;
+	margin-left: 20px;
+}
+
+.pbdev7{
+	width: 550px;
+	margin-left: 1150px;
+	margin-top: 100px;
+}
+
+.text1{
+	width: 800px;
+	margin-left: 100px;
+	margin-bottom: -500px;
+}
+
+.text2{
+	width: 800px;
+	margin-bottom: 350px;
+	margin-left: 300px;
+}
+
+.text3{
+	width: 800px;
+	margin-bottom: -500px;
+	margin-left: 100px;
+}
+
+.text4{
+	width: 800px;
+	margin-bottom: 350px;
+	margin-left: 300px;
+}
+
+.text5{
+	width: 800px;
+	margin-bottom: -500px;
+	margin-left: 100px;
+}
